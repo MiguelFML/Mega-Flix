@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&family=Noto+Sans&display=swap');
+
+
+
+@import "header.css";
+@import "caracteristicas.css";
+@import "filmesPrincipais.css";
+@import "footer.css";
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #190330;
+}
